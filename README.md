@@ -16,7 +16,7 @@ and following internal commands:
 <li>history ,options: -w, -s</li>
 <li>exit [exitcode]</li>
 </ol>
-
+Please refer to man pages for understanding function of each flag of every function.
 <h1>Installation Guide</h1>
 In linux,
 <ol>
