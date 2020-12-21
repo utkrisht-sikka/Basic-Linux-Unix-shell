@@ -20,7 +20,7 @@ and following internal commands:
 In linux,
 <ol>
 <li>Dowload the zip file.</li>
-<li>Extract it somewhere.</li>
+<li>Extract it in a suitable directory.</li>
 <li>Open the terminal in the same directory where extracted files are present</li>
 <li>Type and enter 'make externalbin'.</li>
 <li>Type and enter 'make compile_link'.</li>
